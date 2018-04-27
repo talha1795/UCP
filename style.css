@@ -1,0 +1,20 @@
+/*
+Style Sheet For UCP portal
+
+*/
+
+
+.wrapper {
+  background-image: url("././images/ucp-logo.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  /*background-color: #e60000;*/
+  width: 30%;
+  height: 100px;
+ 
+}
+
+button 
+{
+	background-color:#800100;
+}
